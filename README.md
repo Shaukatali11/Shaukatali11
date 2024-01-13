@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...technology world 
 - 🌱 I’m currently learning ... data structure and algorithm
 - 💞️ I’m looking to collaborate on ...on project
-- 📫 shaukatganguli07@gmail.com
+- 📫 shaukatali786md@gmail.com
 
 <!---
 Shaukatali11/Shaukatali11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
